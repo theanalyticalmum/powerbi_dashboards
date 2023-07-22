@@ -15,5 +15,6 @@ This visualization is a summary of the Premier League 2022/23 season. Mum would 
 - Brentford & Newcastle United tied for the most draws
 - With 1,084 goals, the 2022-23 season was the highest scoring 38-game season in Premier League history.
 
-![alt text]("C:\Users\User\Pictures\Screenshots\Screenshot 2023-07-22 165522.png".jpg)
+
+<img width="594" alt="Screenshot 2023-07-22 165522" src="https://github.com/theanalyticalmum/powerbi_dashboards/assets/97352015/a6046e91-2135-44b8-bb06-250eac6ce40f">
 
