@@ -13,5 +13,7 @@ This visualization is a summary of the Premier League 2022/23 season. Mum would 
 - with 25 losses, Southampton had the worst performance of the season and got relegated. They'll be playing second tier this 2023/24 season. There'll definitely be some soul searching and in-house organization, if they're serious about winning promotion back.
 - Leicester with the second highest number of losses (22) were also relegated. 
 - Brentford & Newcastle United tied for the most draws
-- With 1,084 goals, the 2022-23 season was the highest scoring 38-game season in Premier League history. 
+- With 1,084 goals, the 2022-23 season was the highest scoring 38-game season in Premier League history.
+
+![alt text]("C:\Users\User\Pictures\Screenshots\Screenshot 2023-07-22 165522.png".jpg)
 
